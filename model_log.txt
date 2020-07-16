@@ -1,0 +1,6 @@
+Jul 14, 2020 12:31:14 PM pakistanGIS.main.ContextManager readProperties
+FINE: Initialising properties from file .\pakistan.properties
+Jul 14, 2020 12:31:14 PM pakistanGIS.main.ContextManager build
+FINE: Configuring the environment with data from ./data/pakistan/
+Jul 14, 2020 12:31:16 PM pakistanGIS.environment.Building hashCode
+SEVERE: hashCode called but this object's identifier has not been set. It is likely that you're reading a shapefile that doesn't have a string column called 'identifier'
